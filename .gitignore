@@ -1,0 +1,13 @@
+# Git Files
+.git
+
+# Visual Studio Files
+source/.vs/
+
+# LyncWebAPI
+source/WebAPI/bin
+source/WebAPI/obj
+
+# UnitTests
+source/WebAPI.Tests/bin
+source/WebAPI.Tests/obj
