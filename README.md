@@ -7,7 +7,8 @@ Desenvolvimento de uma API REST com o ASP.NET Web API, para fins de estudos e ap
 - C#.NET 4.6
 - WebAPI
 - LINQ Framework
-- Json.NET Library
+- Newtonsoft.Json Library
+- Owin Library
 - UnitTest
 
 #### Sobre a Solução
